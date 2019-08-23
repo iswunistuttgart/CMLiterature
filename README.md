@@ -18,15 +18,14 @@ The structure is as folowing:
 *  Cluster(seperated by '/')
 
 ## Curation
-* Carsten Ellwein
-* Sascha Neff
-* Alexander Verl
-
-## Contact
 Institute for Control Engineering of Machine Tools and Manufacturing Units
 University of Stuttgart
 Seidenstr. 36
 D-70174 Stuttgart
 Germany
 
-carsten.ellwein@isw.uni-stuttgart.de
+
+* Carsten Ellwein (carsten.ellwein@isw.uni-stuttgart.de)
+* Sascha Neff
+* Alexander Verl
+
