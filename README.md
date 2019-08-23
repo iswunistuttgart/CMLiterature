@@ -5,7 +5,6 @@ The data contain literature reference on the subject of Cloud Manufacturing (CM)
 
 ## Representation 
 The file is encoded in UTF-8, structured as CSV and seperated by ';'.  
-
 '/' is utilized as an sub-seperator.
 
 ## Structure
