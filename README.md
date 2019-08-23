@@ -1,4 +1,4 @@
-# Data
+# README
 
 ## About
 The data contain literature reference on the subject of Cloud Manufacturing (CM). They cover the years 2010-2018 and are originated within the databases of Springer, IEEE and Elsevier. Literature is assigned to one ore multiple clusters based on their keyword usage. 
